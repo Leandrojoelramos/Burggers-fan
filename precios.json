@@ -4,27 +4,65 @@
     {
       "product": "Milanesa o Suprema con fritas",
       "description": "",
-      "price": "$12000"
+      "price": "$13000"
     },
     {
       "product": "Milanesa o Suprema a Caballo con fritas",
       "description": "",
-      "price": "$13500"
+      "price": "$14500"
     },
     {
       "product": "Milanesa o Suprema a Napolitana con fritas",
       "description": "",
-      "price": "$14000"
+      "price": "$15000"
     },
     {
       "product": "Milanesa o Suprema Bacon",
       "description": "Queso Chedar, huevo, bacon y Papas Fritas",
-      "price": "$14500"
+      "price": "$15500"
     },
     {
       "product": "Milanesa o Suprema Fan",
       "description": "Queso, Panceta, Cebolla Verdeo y Papas Fritas",
-      "price": "$14000"
+      "price": "$15000"
+    }
+  ],
+  [
+    { "Title": "Pizzas" },
+    {
+      "product": "Muzarrella",
+      "description": "",
+      "price": "10000$"
+    },
+    {
+      "product": "Napolitana",
+      "description": "",
+      "price": "$12000"
+    },
+    {
+      "product": "Fugazzeta",
+      "description": "",
+      "price": "$11000"
+    },
+    {
+      "product": "Jamón y morrón",
+      "description": "",
+      "price": "$13000"
+    },
+    {
+      "product": "Jamón y ananá",
+      "description": "",
+      "price": "$13000"
+    },
+    {
+      "product": "Calabaza",
+      "description": "",
+      "price": "$13000"
+    },
+    {
+      "product": "Peperoni",
+      "description": "",
+      "price": "$13000"
     }
   ],
   [
@@ -32,32 +70,32 @@
     {
       "product": "Papas Fritas Clasicas",
       "description": "",
-      "price": "$10000"
+      "price": "$11000"
     },
     {
       "product": "Papas Fritas Chedar, Panceta y Verdeo",
       "description": "",
-      "price": "$10500"
+      "price": "$11500"
     },
     {
       "product": "Papas Fritas Fan",
-      "description": "",
-      "price": "$10000"
+      "description": "Salsa de la casa, Cebolla, Morrón Salteado, verdeo y huevo",
+      "price": "$11000"
     },
     {
       "product": "Papas Fritas Fan Provenzal",
       "description": "",
-      "price": "$9500"
+      "price": "$10500"
     },
     {
       "product": "SalchiPapas",
       "description": "",
-      "price": "$9500"
+      "price": "$10500"
     },
     {
       "product": "Adicional Cheddar",
-      "description": "",
-      "price": "$3500"
+      "description": "Chedar, panceta y Verdeo a tus fritas de tus Sandiwchs y hamburguesas",
+      "price": "$4500"
     }
   ],
   [
@@ -65,22 +103,22 @@
     {
       "product": "Coca Cola 1,5 LTS",
       "description": "Coca Cola, Sprite",
-      "price": "$4000"
+      "price": "$5000"
     },
     {
       "product": "Pepsi",
-      "description": "",
-      "price": "$3500"
+      "description": "Pepsi, Paso de los Toros, 7up, Mirinda",
+      "price": "$4500"
     },
     {
       "product": "Coca Cola 500 ml",
-      "description": "",
-      "price": "$2000"
+      "description": "Coca Cola, Fanta, Sprite, Schweppers",
+      "price": "$3000"
     },
     {
       "product": "cerveza 473 ml",
       "description": "Quilmes, Andes y Brahma",
-      "price": "$2500"
+      "price": "$3500"
     }
   ]
 ]

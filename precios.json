@@ -1,0 +1,86 @@
+[
+  [
+    { "Title": "Milanesas al Plato" },
+    {
+      "product": "Milanesa o Suprema con fritas",
+      "description": "",
+      "price": "$12000"
+    },
+    {
+      "product": "Milanesa o Suprema a Caballo con fritas",
+      "description": "",
+      "price": "$13500"
+    },
+    {
+      "product": "Milanesa o Suprema a Napolitana con fritas",
+      "description": "",
+      "price": "$14000"
+    },
+    {
+      "product": "Milanesa o Suprema Bacon",
+      "description": "Queso Chedar, huevo, bacon y Papas Fritas",
+      "price": "$14500"
+    },
+    {
+      "product": "Milanesa o Suprema Fan",
+      "description": "Queso, Panceta, Cebolla Verdeo y Papas Fritas",
+      "price": "$14000"
+    }
+  ],
+  [
+    { "Title": "Porciones de Papas Fritas" },
+    {
+      "product": "Papas Fritas Clasicas",
+      "description": "",
+      "price": "$10000"
+    },
+    {
+      "product": "Papas Fritas Chedar, Panceta y Verdeo",
+      "description": "",
+      "price": "$10500"
+    },
+    {
+      "product": "Papas Fritas Fan",
+      "description": "",
+      "price": "$10000"
+    },
+    {
+      "product": "Papas Fritas Fan Provenzal",
+      "description": "",
+      "price": "$9500"
+    },
+    {
+      "product": "SalchiPapas",
+      "description": "",
+      "price": "$9500"
+    },
+    {
+      "product": "Adicional Cheddar",
+      "description": "",
+      "price": "$3500"
+    }
+  ],
+  [
+    { "Title": "Bebidas y Gaseosas" },
+    {
+      "product": "Coca Cola 1,5 LTS",
+      "description": "Coca Cola, Sprite",
+      "price": "$4000"
+    },
+    {
+      "product": "Pepsi",
+      "description": "",
+      "price": "$3500"
+    },
+    {
+      "product": "Coca Cola 500 ml",
+      "description": "",
+      "price": "$2000"
+    },
+    {
+      "product": "cerveza 473 ml",
+      "description": "Quilmes, Andes y Brahma",
+      "price": "$2500"
+    }
+  ]
+]

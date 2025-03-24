@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Burgger's Fan</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background: radial-gradient(circle, #8c1f06, #000000);
+      }
+      .Principal-Title {
+        display: flex;
+        justify-content: center;
+      }
+      .TitleFirst {
+        color: #ffffff;
+      }
+      .TitleSecond {
+        color: #f00000;
+        margin-left: 15px;
+      }
+      h2 {
+        color: #ffffff;
+      }
+      ul {
+        list-style-type: none;
+        padding: 0;
+      }
+      li {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 10px 0;
+      }
+      .descrition,
+      .price,
+      .product {
+        color: #ffffff;
+        margin: 0;
+      }
+      .product {
+        color: #ff9900;
+        flex-grow: 1;
+      }
+      .ProductDescr {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 100%;
+      }
+      .price {
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="Principal-Title">
+      <h1 class="TitleFirst">Burgger's</h1>
+      <h1 class="TitleSecond">Fan</h1>
+    </div>
+
+    <div id="menu"></div>
+
+    <script>
+      async function cargarMenu() {
+        try {
+          const response = await fetch("./precios.json");
+          const menuData = await response.json();
+
+          const menuContainer = document.getElementById("menu");
+          menuContainer.innerHTML = menuData
+            .map(
+              (category) => `
+            <div>
+              <h2>${category[0].Title}</h2>
+              <ul>
+                ${category
+                  .slice(1)
+                  .map(
+                    (item) => `
+                  <li>
+                    <div class="ProductDescr">
+                    <strong class="product">${item.product}</strong>
+                    ${
+                      item.description
+                        ? `<p class="descrition">${item.description}</p>`
+                        : ""
+                    }
+                  </div>
+                  <p class="price">${item.price}</p>
+                  </li>
+                `
+                  )
+                  .join("")}
+              </ul>
+            </div>
+          `
+            )
+            .join("");
+        } catch (error) {
+          console.error("Error al cargar el menú:", error);
+        }
+      }
+      cargarMenu();
+    </script>
+  </body>
+</html>

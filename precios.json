@@ -31,38 +31,48 @@
     { "Title": "Pizzas" },
     {
       "product": "Muzarrella",
-      "description": "",
+      "description": "Muzzarrella, salsa, aceitunas, orégano",
       "price": "10000$"
     },
     {
       "product": "Napolitana",
-      "description": "",
+      "description": "Salsa, Muzzarrella,tomate, ajo,  aceite, orégano",
       "price": "$12000"
     },
     {
       "product": "Fugazzeta",
-      "description": "",
+      "description": "Muzzarrella, cebolla, orégano, aceitunas",
       "price": "$11000"
     },
     {
       "product": "Jamón y morrón",
-      "description": "",
+      "description": "Salsa, Muzarrella, jamón, morrón, aceitunas ,orégano",
       "price": "$13000"
     },
     {
       "product": "Jamón y ananá",
-      "description": "",
+      "description": "Salsa, Muzzarrella, Jamón, ananá, aceitunas y orégano",
       "price": "$13000"
     },
     {
-      "product": "Calabaza",
-      "description": "",
+      "product": "Calabreza",
+      "description": "Salsa, Muzarrella, Calabreza, aceitunas, orégano",
       "price": "$13000"
     },
     {
       "product": "Peperoni",
-      "description": "",
+      "description": "Salsa, Muzzarrella,Peperoni, aceitunas, orégano",
       "price": "$13000"
+    },
+    {
+      "product": "Huevo",
+      "description": "Salsa, Muzzarrella, huevo, aceitunas, orégano",
+      "price": "$13000"
+    },
+    {
+      "product": "Roquefort",
+      "description": "Salsa, Muzzarrella, Roquefort, aceitunas, huevo",
+      "price": "$14000"
     }
   ],
   [

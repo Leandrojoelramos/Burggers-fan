@@ -1,6 +1,6 @@
 [
   [
-    { "Title": "Hamburguesas" },
+    { "Title": "HAMBURGUESAS" },
     {
       "product": "clásica",
       "description": "Medallón, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
@@ -33,7 +33,7 @@
     }
   ],
   [
-    { "Title": "Lomos" },
+    { "Title": "LOMOS" },
     {
       "product": "Clásico",
       "description": "Lomo Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
@@ -56,7 +56,7 @@
     }
   ],
   [
-    { "Title": "Sandwich Milanesas" },
+    { "Title": "SANDWICH DE MILANESAS" },
     {
       "product": "Sandwich",
       "description": "Milanesa o Suprema, Jamón y queso, Lechuga, Tomate, Huevo, Mayonesa",
@@ -69,7 +69,7 @@
     }
   ],
   [
-    { "Title": "Milas al Plato" },
+    { "Title": "MILAS AL PLATO" },
     {
       "product": "Milanesa o Suprema con fritas",
       "description": "",
@@ -97,7 +97,7 @@
     }
   ],
   [
-    { "Title": "Pizzas" },
+    { "Title": "PIZZAS" },
     {
       "product": "Muzarrella",
       "description": "Muzzarrella, salsa, aceitunas, orégano",
@@ -145,7 +145,7 @@
     }
   ],
   [
-    { "Title": "Porciones de Papas Fritas" },
+    { "Title": "PORCIONES DE PAPASFRITAS" },
     {
       "product": "Papas Fritas Clasicas",
       "description": "",
@@ -178,7 +178,7 @@
     }
   ],
   [
-    { "Title": "Bebidas y Gaseosas" },
+    { "Title": "BEBIDAS Y GASEOSAS" },
     {
       "product": "Coca Cola 1,5 LTS",
       "description": "Coca Cola, Sprite, Fanta",

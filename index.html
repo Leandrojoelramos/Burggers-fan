@@ -3,68 +3,88 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="apple-touch-icon"
+      sizes="57x57"
+      href="icons/apple-icon-57x57.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="60x60"
+      href="icons/apple-icon-60x60.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="72x72"
+      href="icons/apple-icon-72x72.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="76x76"
+      href="icons/apple-icon-76x76.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="114x114"
+      href="icons/apple-icon-114x114.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="icons/apple-icon-120x120.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="144x144"
+      href="icons/apple-icon-144x144.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="icons/apple-icon-152x152.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="icons/apple-icon-180x180.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="192x192"
+      href="icons/android-icon-192x192.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="icons/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="icons/favicon-96x96.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="icons/favicon-16x16.png"
+    />
+    <link rel="manifest" href="icons/manifest.json" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="icons/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="stylesheet" href="styles.css" />
     <title>Burgger's Fan</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        text-align: center;
-        background: radial-gradient(circle, #8c1f06, #000000);
-      }
-      .Principal-Title {
-        display: flex;
-        justify-content: center;
-      }
-      .TitleFirst {
-        color: #ffffff;
-      }
-      .TitleSecond {
-        color: #f00000;
-        margin-left: 15px;
-      }
-      h2 {
-        color: #ffffff;
-        margin-right: 3%;
-      }
-      ul {
-        list-style-type: none;
-        padding: 0;
-      }
-      li {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        margin: 10px 0;
-      }
-      .descrition,
-      .price,
-      .product {
-        color: #ffffff;
-        margin: 0;
-      }
-      .product {
-        color: #ff9900;
-        flex-grow: 1;
-      }
-      .ProductDescr {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        width: 100%;
-      }
-      .price {
-        margin-top: 0;
-        margin-bottom: 0;
-      }
-    </style>
   </head>
   <body>
     <div class="Principal-Title">
       <h1 class="TitleFirst">Burgger's</h1>
       <h1 class="TitleSecond">Fan</h1>
     </div>
-
     <div id="menu"></div>
-
     <script>
       async function cargarMenu() {
         try {

@@ -1,6 +1,75 @@
 [
   [
-    { "Title": "Milanesas al Plato" },
+    { "Title": "Hamburguesas" },
+    {
+      "product": "clásica",
+      "description": "Medallón, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
+      "price": "$9000"
+    },
+    {
+      "product": "Beacon",
+      "description": "Medallón, Beacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
+      "price": "$9500"
+    },
+    {
+      "product": "Chesee",
+      "description": "Medallón, Queso Cheddar, Cebolla, Barbacoa",
+      "price": "$9000"
+    },
+    {
+      "product": "Burgeer fan",
+      "description": "Doble Medallón, Queso, Cebolla, Morrón Salteado, Huevo, Salsa de la Casa Fan",
+      "price": "$12500"
+    },
+    {
+      "product": "Beacon Doble",
+      "description": "Doble Medallón, Queso Cheddar, Cebolla, Huevo, Barbacoa",
+      "price": "$12500"
+    },
+    {
+      "product": "Medallon Extra",
+      "description": "Un Medallón Extra para tus Hamburguesas",
+      "price": "$4500"
+    }
+  ],
+  [
+    { "Title": "Lomos" },
+    {
+      "product": "Clásico",
+      "description": "Lomo Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
+      "price": "$18000"
+    },
+    {
+      "product": "Lomo Fan",
+      "description": "Doble Lomo, Queso, Pepinillos, Cebolla, Huevo, Morrón Salteado, Salsa de La Casa",
+      "price": "$28000"
+    },
+    {
+      "product": "Clásico de 40CM",
+      "description": "Lomo Grande, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa ",
+      "price": "$20000"
+    },
+    {
+      "product": "Lomo Fan de 40CM",
+      "description": "Cuatro Lomos, Queso, Huevo, Pepinillos, Cebolla, Morrón Salteado, Salsa de la Casa",
+      "price": "$31000"
+    }
+  ],
+  [
+    { "Title": "Sandwich Milanesas" },
+    {
+      "product": "Sandwich",
+      "description": "Milanesa o Suprema, Jamón y queso, Lechuga, Tomate, Huevo, Mayonesa",
+      "price": "$16000"
+    },
+    {
+      "product": "Sandwich de 40CM",
+      "description": "Milanesa o Suprema, Jamón y queso, Lechuga, Tomate, Huevo, Mayonesa",
+      "price": "$18000"
+    }
+  ],
+  [
+    { "Title": "Milas al Plato" },
     {
       "product": "Milanesa o Suprema con fritas",
       "description": "",
@@ -112,92 +181,23 @@
     { "Title": "Bebidas y Gaseosas" },
     {
       "product": "Coca Cola 1,5 LTS",
-      "description": "Coca Cola, Sprite",
+      "description": "Coca Cola, Sprite, Fanta",
       "price": "$4500"
     },
     {
       "product": "Pepsi",
-      "description": "Pepsi, Paso de los Toros, 7up, Mirinda",
+      "description": "Pepsi, Paso de los Toros, 7up",
       "price": "$4000"
     },
     {
       "product": "Coca Cola 500 ml",
-      "description": "Coca Cola, Fanta, Sprite, Schweppers",
+      "description": "Coca Cola, Fanta, Sprite",
       "price": "$2500"
     },
     {
       "product": "cerveza 473 ml",
-      "description": "Quilmes, Andes y Brahma",
+      "description": "Andes",
       "price": "$3000"
-    }
-  ],
-  [
-    { "Title": "Hamburguesas" },
-    {
-      "product": "clásica",
-      "description": "Medallón, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$9000"
-    },
-    {
-      "product": "Beacon",
-      "description": "Medallón, Beacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
-      "price": "$9500"
-    },
-    {
-      "product": "Chesee",
-      "description": "Medallón, Queso Cheddar, Cebolla, Barbacoa",
-      "price": "$9000"
-    },
-    {
-      "product": "Burgeer fan",
-      "description": "Doble Medallón, Queso, Cebolla, Morrón Salteado, Huevo, Salsa de la Casa Fan",
-      "price": "$12500"
-    },
-    {
-      "product": "Beacon Doble",
-      "description": "Doble Medallón, Queso Cheddar, Cebolla, Huevo, Barbacoa",
-      "price": "$12500"
-    },
-    {
-      "product": "Medallon Extra",
-      "description": "Un Medallón Extra para tus Hamburguesas",
-      "price": "$4500"
-    }
-  ],
-  [
-    { "Title": "Lomos" },
-    {
-      "product": "Clásico",
-      "description": "Lomo Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$18000"
-    },
-    {
-      "product": "Lomo Fan",
-      "description": "Doble Lomo, Queso, Pepinillos, Cebolla, Huevo, Morrón Salteado, Salsa de La Casa",
-      "price": "$28000"
-    },
-    {
-      "product": "Clásico de 40CM",
-      "description": "Lomo Grande, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa ",
-      "price": "$20000"
-    },
-    {
-      "product": "Lomo Fan de 40CM",
-      "description": "Cuatro Lomos, Queso, Huevo, Pepinillos, Cebolla, Morrón Salteado, Salsa de la Casa",
-      "price": "$31000"
-    }
-  ],
-  [
-    { "Title": "Sanguche Milanesas" },
-    {
-      "product": "Sanguche",
-      "description": "Milanesa o Suprema, Jamón y queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$16000"
-    },
-    {
-      "product": "Sanguche de 40CM",
-      "description": "Milanesa o Suprema, Jamón y queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$18000"
     }
   ]
 ]

@@ -39,10 +39,22 @@ li {
   margin: 10px 0;
 }
 
-.descrition,
-.price,
+.price{
+  color:#ffffff;
+  margin: 0;
+}
+
+.textFooter{
+  color:#d1d1d1;
+}
+
+.descrition{
+  color: #d1d1d1;
+  margin: 0;
+}
+
 .product {
-  color: #ffffff;
+  color: #d1d1d1;
   margin: 0;
 }
 

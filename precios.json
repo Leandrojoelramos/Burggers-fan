@@ -45,14 +45,14 @@
       "price": "$18000"
     },
     {
-      "product": "Lomo Fan",
-      "description": "Doble Lomo, Queso, Pepinillos, Cebolla, Huevo, Morrón Salteado, Salsa de la Casa",
-      "price": "$28000"
-    },
-    {
       "product": "Clásico de 40CM",
       "description": "Lomo Grande, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
       "price": "$20000"
+    },
+    {
+      "product": "Lomo Fan",
+      "description": "Doble Lomo, Queso, Pepinillos, Cebolla, Huevo, Morrón Salteado, Salsa de la Casa",
+      "price": "$28000"
     },
     {
       "product": "Lomo Fan de 40CM",

@@ -24,7 +24,7 @@
     {
       "product": "Bacon Doble",
       "description": "Doble Medallón, Queso Cheddar, Cebolla, Huevo, Barbacoa",
-      "price": "$11500"
+      "price": "$12500"
     },
     {
       "product": "Bacon Triple",
@@ -154,17 +154,17 @@
     {
       "product": "Papas Fritas Clásicas",
       "description": "",
-      "price": "$11000"
+      "price": "$10000"
     },
     {
       "product": "Papas Fritas Cheddar, Panceta y Verdeo",
       "description": "",
-      "price": "$11500"
+      "price": "$13000"
     },
     {
       "product": "Papas Fritas Fan",
       "description": "Salsa de la Casa, Cebolla, Morrón Salteado, Verdeo y Huevo",
-      "price": "$11000"
+      "price": "$13000"
     },
     {
       "product": "Papas Fritas Fan Provenzal",

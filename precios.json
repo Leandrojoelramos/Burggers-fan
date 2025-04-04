@@ -23,12 +23,17 @@
     },
     {
       "product": "Bacon Doble",
-      "description": "Doble Medallón, Queso Cheddar, Cebolla, Huevo, Barbacoa, Bacon",
+      "description": "Doble Medallón, Bacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
+      "price": "$12500"
+    },
+    {
+      "product": "Hot Fan",
+      "description": "Doble medallon, queso, panceta, huevo, salsa picante",
       "price": "$12500"
     },
     {
       "product": "Bacon Triple",
-      "description": "Triple Medallón, Queso Cheddar, Cebolla, Huevo, Barbacoa",
+      "description": "Triple Medallón, Bacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
       "price": "$15000"
     },
     {

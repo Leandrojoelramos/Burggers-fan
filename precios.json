@@ -4,42 +4,42 @@
     {
       "product": "Clásica",
       "description": "Medallón, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$9000"
+      "price": "$10000"
     },
     {
       "product": "Bacon",
       "description": "Medallón, Bacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
-      "price": "$9500"
+      "price": "$12000"
     },
     {
       "product": "Cheese",
       "description": "Medallón, Queso Cheddar, Cebolla, Barbacoa",
-      "price": "$9000"
+      "price": "$10000"
     },
     {
       "product": "Burgger Fan",
       "description": "Doble Medallón, Queso, Cebolla, Morrón Salteado, Huevo, Salsa de la Casa Fan",
-      "price": "$12500"
+      "price": "$15000"
     },
     {
       "product": "Bacon Doble",
       "description": "Doble Medallón, Bacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
-      "price": "$12500"
+      "price": "$15000"
     },
     {
       "product": "Hot Fan",
       "description": "Doble Medallón, Queso, Panceta, Huevo, Salsa Picante",
-      "price": "$12500"
+      "price": "$15000"
     },
     {
       "product": "Bacon Triple",
       "description": "Triple Medallón, Bacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
-      "price": "$15000"
+      "price": "$18000"
     },
     {
       "product": "Medallón Extra",
       "description": "Un Medallón Extra para tus Hamburguesas",
-      "price": "$4500"
+      "price": "$5000"
     }
   ],
   [
@@ -47,22 +47,22 @@
     {
       "product": "Clásico",
       "description": "Lomo, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$18000"
+      "price": "$19000"
     },
     {
       "product": "Clásico de 40CM",
       "description": "Lomo Grande, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$20000"
+      "price": "$22000"
     },
     {
       "product": "Lomo Fan",
       "description": "Doble Lomo, Queso, Pepinillos, Cebolla, Huevo, Morrón Salteado, Salsa de la Casa",
-      "price": "$28000"
+      "price": "$30000"
     },
     {
       "product": "Lomo Fan de 40CM",
       "description": "Doble Lomo, Queso, Huevo, Pepinillos, Cebolla, Morrón Salteado, Salsa de la Casa",
-      "price": "$31000"
+      "price": "$35000"
     }
   ],
   [
@@ -70,12 +70,12 @@
     {
       "product": "Sándwich",
       "description": "Milanesa o Suprema, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$16000"
+      "price": "$18000"
     },
     {
       "product": "Sándwich de 40CM",
       "description": "Milanesa o Suprema, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$18000"
+      "price": "$20000"
     }
   ],
   [
@@ -83,27 +83,27 @@
     {
       "product": "Milanesa o Suprema con fritas",
       "description": "",
-      "price": "$13000"
+      "price": "$15000"
     },
     {
       "product": "Milanesa o Suprema a Caballo con fritas",
       "description": "",
-      "price": "$14500"
+      "price": "$16500"
     },
     {
       "product": "Milanesa o Suprema a la Napolitana con fritas",
       "description": "",
-      "price": "$15000"
+      "price": "$17500"
     },
     {
       "product": "Milanesa o Suprema Bacon",
       "description": "Queso Cheddar, Huevo, Bacon y Papas Fritas",
-      "price": "$15500"
+      "price": "$17500"
     },
     {
       "product": "Milanesa o Suprema Fan",
       "description": "Queso, Panceta, Cebolla de Verdeo y Papas Fritas",
-      "price": "$15000"
+      "price": "$17500"
     }
   ],
   [
@@ -111,47 +111,57 @@
     {
       "product": "Muzzarella",
       "description": "Muzzarella, Salsa, Aceitunas, Orégano",
-      "price": "$10000"
+      "price": "$15000"
     },
     {
       "product": "Napolitana",
       "description": "Salsa, Muzzarella, Tomate, Ajo, Aceite, Orégano",
-      "price": "$12000"
+      "price": "$17500"
     },
     {
       "product": "Fugazzeta",
       "description": "Muzzarella, Cebolla, Orégano, Aceitunas",
-      "price": "$11000"
+      "price": "$16000"
     },
     {
       "product": "Jamón y Morrón",
       "description": "Salsa, Muzzarella, Jamón, Morrón, Aceitunas, Orégano",
-      "price": "$13000"
+      "price": "$18500"
     },
     {
       "product": "Jamón y Ananá",
       "description": "Salsa, Muzzarella, Jamón, Ananá, Aceitunas y Orégano",
-      "price": "$13000"
+      "price": "$18500"
     },
     {
       "product": "Calabresa",
       "description": "Salsa, Muzzarella, Calabresa, Aceitunas, Orégano",
-      "price": "$13000"
+      "price": "$19500"
     },
     {
       "product": "Pepperoni",
       "description": "Salsa, Muzzarella, Pepperoni, Aceitunas, Orégano",
-      "price": "$13000"
+      "price": "$19500"
     },
     {
       "product": "Huevo",
       "description": "Salsa, Muzzarella, Huevo, Aceitunas, Orégano",
-      "price": "$13000"
+      "price": "$17500"
     },
     {
       "product": "Roquefort",
       "description": "Salsa, Muzzarella, Roquefort, Aceitunas, Huevo",
-      "price": "$14000"
+      "price": "$20000"
+    },
+     {
+      "product": "Americana",
+      "description": "Salsa, Muzzarella, Panceta, Huevo, Orégano y Morrón ",
+      "price": "$22000"
+    },
+     {
+      "product": "Palmito",
+      "description": "Salsa, Muzzarella, Palmito, Jamón, Morrón y Salsa golf",
+      "price": "$22000"
     }
   ],
   [
@@ -159,32 +169,42 @@
     {
       "product": "Papas Fritas Clásicas",
       "description": "",
-      "price": "$10000"
+      "price": "$12000"
+    },
+      {
+      "product": "Papas Fritas Clásicas Grande",
+      "description": "",
+      "price": "$16000"
     },
     {
       "product": "Papas Fritas Cheddar, Panceta y Verdeo",
       "description": "",
-      "price": "$13000"
+      "price": "$15000"
+    },
+      {
+      "product": "Papas Fritas Cheddar, Panceta y Verdeo Grande",
+      "description": "",
+      "price": "$19000"
     },
     {
       "product": "Papas Fritas Fan",
       "description": "Salsa de la Casa, Cebolla, Morrón Salteado, Verdeo y Huevo",
-      "price": "$13000"
+      "price": "$15000"
     },
     {
       "product": "Papas Fritas Fan Provenzal",
       "description": "",
-      "price": "$12000"
+      "price": "$14000"
     },
     {
       "product": "Salchipapas",
       "description": "",
-      "price": "$12000"
+      "price": "$14000"
     },
     {
       "product": "Adicional Cheddar",
       "description": "Cheddar, Panceta y Verdeo a tus fritas de tus Sándwiches y Hamburguesas",
-      "price": "$4500"
+      "price": "$5000"
     }
   ],
   [

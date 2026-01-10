@@ -4,37 +4,37 @@
     {
       "product": "Clásica",
       "description": "Medallón, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$10000"
+      "price": "$12000"
     },
     {
       "product": "Bacon",
       "description": "Medallón, Bacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
-      "price": "$12000"
+      "price": "$15000"
     },
     {
       "product": "Cheese",
       "description": "Medallón, Queso Cheddar, Cebolla, Barbacoa",
-      "price": "$10000"
+      "price": "$12000"
     },
     {
       "product": "Burgger Fan",
       "description": "Doble Medallón, Queso, Cebolla, Morrón Salteado, Huevo, Salsa de la Casa Fan",
-      "price": "$15000"
+      "price": "$17500"
     },
     {
       "product": "Bacon Doble",
       "description": "Doble Medallón, Bacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
-      "price": "$15000"
+      "price": "$17500"
     },
     {
       "product": "Hot Fan",
       "description": "Doble Medallón, Queso, Panceta, Huevo, Salsa Picante",
-      "price": "$15000"
+      "price": "$17500"
     },
     {
       "product": "Bacon Triple",
       "description": "Triple Medallón, Bacon, Queso Cheddar, Cebolla, Huevo, Barbacoa",
-      "price": "$18000"
+      "price": "$20000"
     },
     {
       "product": "Medallón Extra",
@@ -47,22 +47,22 @@
     {
       "product": "Clásico",
       "description": "Lomo, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$19000"
+      "price": "$21500"
     },
     {
       "product": "Clásico de 40CM",
       "description": "Lomo Grande, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$22000"
+      "price": "$24500"
     },
     {
       "product": "Lomo Fan",
       "description": "Doble Lomo, Queso, Pepinillos, Cebolla, Huevo, Morrón Salteado, Salsa de la Casa",
-      "price": "$30000"
+      "price": "$35000"
     },
     {
       "product": "Lomo Fan de 40CM",
       "description": "Doble Lomo, Queso, Huevo, Pepinillos, Cebolla, Morrón Salteado, Salsa de la Casa",
-      "price": "$35000"
+      "price": "$40000"
     }
   ],
   [
@@ -70,12 +70,12 @@
     {
       "product": "Sándwich",
       "description": "Milanesa o Suprema, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$18000"
+      "price": "$19500"
     },
     {
       "product": "Sándwich de 40CM",
       "description": "Milanesa o Suprema, Jamón y Queso, Lechuga, Tomate, Huevo, Mayonesa",
-      "price": "$20000"
+      "price": "$22000"
     }
   ],
   [
@@ -83,27 +83,27 @@
     {
       "product": "Milanesa o Suprema con fritas",
       "description": "",
-      "price": "$15000"
+      "price": "$16500"
     },
     {
       "product": "Milanesa o Suprema a Caballo con fritas",
       "description": "",
-      "price": "$16500"
+      "price": "$18000"
     },
     {
       "product": "Milanesa o Suprema a la Napolitana con fritas",
       "description": "",
-      "price": "$17500"
+      "price": "$19500"
     },
     {
       "product": "Milanesa o Suprema Bacon",
       "description": "Queso Cheddar, Huevo, Bacon y Papas Fritas",
-      "price": "$17500"
+      "price": "$19500"
     },
     {
       "product": "Milanesa o Suprema Fan",
       "description": "Queso, Panceta, Cebolla de Verdeo y Papas Fritas",
-      "price": "$17500"
+      "price": "$19500"
     }
   ],
   [
@@ -111,57 +111,57 @@
     {
       "product": "Muzzarella",
       "description": "Muzzarella, Salsa, Aceitunas, Orégano",
-      "price": "$15000"
+      "price": "$16500"
     },
     {
       "product": "Napolitana",
       "description": "Salsa, Muzzarella, Tomate, Ajo, Aceite, Orégano",
-      "price": "$17500"
+      "price": "$18500"
     },
     {
       "product": "Fugazzeta",
       "description": "Muzzarella, Cebolla, Orégano, Aceitunas",
-      "price": "$16000"
+      "price": "$17500"
     },
     {
       "product": "Jamón y Morrón",
       "description": "Salsa, Muzzarella, Jamón, Morrón, Aceitunas, Orégano",
-      "price": "$18500"
+      "price": "$19500"
     },
     {
       "product": "Jamón y Ananá",
       "description": "Salsa, Muzzarella, Jamón, Ananá, Aceitunas y Orégano",
-      "price": "$18500"
+      "price": "$19500"
     },
     {
       "product": "Calabresa",
       "description": "Salsa, Muzzarella, Calabresa, Aceitunas, Orégano",
-      "price": "$19500"
+      "price": "$20500"
     },
     {
       "product": "Pepperoni",
       "description": "Salsa, Muzzarella, Pepperoni, Aceitunas, Orégano",
-      "price": "$19500"
+      "price": "$20500"
     },
     {
       "product": "Huevo",
       "description": "Salsa, Muzzarella, Huevo, Aceitunas, Orégano",
-      "price": "$17500"
+      "price": "$18500"
     },
     {
       "product": "Roquefort",
       "description": "Salsa, Muzzarella, Roquefort, Aceitunas, Huevo",
-      "price": "$20000"
+      "price": "$22000"
     },
      {
       "product": "Americana",
       "description": "Salsa, Muzzarella, Panceta, Huevo, Orégano y Morrón ",
-      "price": "$22000"
+      "price": "$25000"
     },
      {
       "product": "Palmito",
       "description": "Salsa, Muzzarella, Palmito, Jamón, Morrón y Salsa golf",
-      "price": "$22000"
+      "price": "$23500"
     }
   ],
   [
@@ -169,27 +169,27 @@
     {
       "product": "Papas Fritas Clásicas",
       "description": "",
-      "price": "$12000"
+      "price": "$13500"
     },
       {
       "product": "Papas Fritas Clásicas Grande",
       "description": "",
-      "price": "$16000"
+      "price": "$16500"
     },
     {
       "product": "Papas Fritas Cheddar, Panceta y Verdeo",
       "description": "",
-      "price": "$15000"
+      "price": "$17000"
     },
       {
       "product": "Papas Fritas Cheddar, Panceta y Verdeo Grande",
       "description": "",
-      "price": "$19000"
+      "price": "$21500"
     },
     {
       "product": "Papas Fritas Fan",
       "description": "Salsa de la Casa, Cebolla, Morrón Salteado, Verdeo y Huevo",
-      "price": "$15000"
+      "price": "$18000"
     },
     {
       "product": "Papas Fritas Fan Provenzal",
@@ -212,22 +212,22 @@
     {
       "product": "Coca Cola 1,5 LTS",
       "description": "Coca Cola, Sprite, Fanta",
-      "price": "$4500"
+      "price": "$5000"
     },
     {
       "product": "Pepsi",
       "description": "Pepsi, Paso de los Toros, 7up",
-      "price": "$4000"
+      "price": "$5000"
     },
     {
       "product": "Coca Cola 500 ml",
       "description": "Coca Cola, Fanta, Sprite",
-      "price": "$2500"
+      "price": "$3000"
     },
     {
       "product": "Cerveza 473 ml",
       "description": "Andes",
-      "price": "$3000"
+      "price": "$3500"
     }
   ]
 ]

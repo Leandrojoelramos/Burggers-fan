@@ -115,7 +115,7 @@
     },
     {
       "product": "Napolitana",
-      "description": "Salsa, Muzzarella, Tomate, Ajo, Aceite, Orégano",
+      "description": "Salsa, Muzzarella, Tomate, Ajo, Aceitunas, Orégano",
       "price": "$18500"
     },
     {
@@ -150,12 +150,12 @@
     },
     {
       "product": "Roquefort",
-      "description": "Salsa, Muzzarella, Roquefort, Aceitunas, Huevo",
+      "description": "Salsa, Muzzarella, Roquefort, Aceitunas",
       "price": "$22000"
     },
      {
       "product": "Americana",
-      "description": "Salsa, Muzzarella, Panceta, Huevo, Orégano y Morrón ",
+      "description": "Salsa, Muzzarella, Panceta, Huevo, Orégano",
       "price": "$25000"
     },
      {
